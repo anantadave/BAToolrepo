@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="BATool Test Suite" time="162" tests="1" failures="0" errors="0">
+   <testsuite name="BATool Test Suite" tests="1" failures="0" errors="0" time="162" timestamp="2018-12-06 12:53:00" hostname="ananta.dave - CDAHMLPT056.cignexdatamatics.com" id="Test Suites/BATool Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ananta.dave\\Katalon Studio\\BATool\\Reports\\BATool Test Suite\\20181206_125257"/>
+         <property name="logFiles" value="C:\\Users\\ananta.dave\\Katalon Studio\\BATool\\Reports\\BATool Test Suite\\20181206_125257\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ananta.dave - CDAHMLPT056.cignexdatamatics.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.4.14"/>
+         <property name="browser" value="Chrome 70.0.3538.102"/>
+         <property name="hostAddress" value="192.168.10.208"/>
+         <property name="sessionId" value="536a36ce38a0f1444ce7ab517c20e20e"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/CreateItemFB" classname="Test Cases/CreateItemFB" status="PASSED">
+         <system-out><![CDATA[2018-12-06 12:53:00 - [TEST_CASE][PASSED] - Test Cases/CreateItemFB: Test Cases/CreateItemFB
+
+2018-12-06 12:53:01 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-12-06 12:53:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-06 12:53:06 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://bat-qa.macmillan-learning.com/gateway/index.php' successfully
+
+2018-12-06 12:53:09 - [MESSAGE][PASSED] - Navigate to 'https://bat-qa.macmillan-learning.com/gateway/index.php' successfully
+
+2018-12-06 12:53:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Lumina Datamatics/a_Click here' is clicked on
+
+2018-12-06 12:53:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Lumina Datamatics/a_Click here' is clicked on
+
+2018-12-06 12:53:12 - [TEST_STEP][PASSED] - setText: Text 'testuser' is set on object 'Object Repository/Page_Lumina Datamatics/input_User name_username'
+
+2018-12-06 12:53:16 - [MESSAGE][PASSED] - Text 'testuser' is set on object 'Object Repository/Page_Lumina Datamatics/input_User name_username'
+
+2018-12-06 12:53:16 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Page_Lumina Datamatics/input_Password_password'
+
+2018-12-06 12:53:20 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Lumina Datamatics/input_Password_password'
+
+2018-12-06 12:53:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Lumina Datamatics/input_Password_submitButton' is clicked on
+
+2018-12-06 12:53:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Lumina Datamatics/input_Password_submitButton' is clicked on
+
+2018-12-06 12:53:28 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Common Gateway/a_QTI Authoring' is clicked on
+
+2018-12-06 12:53:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Common Gateway/a_QTI Authoring' is clicked on
+
+2018-12-06 12:53:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/span_Toggle navigation_caret' is clicked on
+
+2018-12-06 12:53:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/span_Toggle navigation_caret' is clicked on
+
+2018-12-06 12:53:35 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Create a new item' is clicked on
+
+2018-12-06 12:53:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Create a new item' is clicked on
+
+2018-12-06 12:53:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Fill in the blank' is clicked on
+
+2018-12-06 12:53:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Fill in the blank' is clicked on
+
+2018-12-06 12:53:43 - [TEST_STEP][PASSED] - setText: Text 'FB Automation added1' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Title_title'
+
+2018-12-06 12:53:48 - [MESSAGE][PASSED] - Text 'FB Automation added1' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Title_title'
+
+2018-12-06 12:53:48 - [TEST_STEP][PASSED] - setText: Text 'F B hint' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Hint_hint'
+
+2018-12-06 12:53:52 - [MESSAGE][PASSED] - Text 'F B hint' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Hint_hint'
+
+2018-12-06 12:53:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Hint_desctoo' is clicked on
+
+2018-12-06 12:53:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Hint_desctoo' is clicked on
+
+2018-12-06 12:53:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_stemtoo' is clicked on
+
+2018-12-06 12:53:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_stemtoo' is clicked on
+
+2018-12-06 12:53:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_mc_promptt' is clicked on
+
+2018-12-06 12:53:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_mc_promptt' is clicked on
+
+2018-12-06 12:53:58 - [TEST_STEP][PASSED] - setText: Text 'default feedback FB' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Default Feedback_default'
+
+2018-12-06 12:54:03 - [MESSAGE][PASSED] - Text 'default feedback FB' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Default Feedback_default'
+
+2018-12-06 12:54:03 - [TEST_STEP][PASSED] - setText: Text '<p style="outline: rgb(255, 0, 0) solid 2px;"><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1544010177091" data-last-change-time="1544010178453">Ans1</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Ans1'
+
+2018-12-06 12:54:08 - [MESSAGE][PASSED] - Text '<p style="outline: rgb(255, 0, 0) solid 2px;"><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1544010177091" data-last-change-time="1544010178453">Ans1</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Ans1'
+
+2018-12-06 12:54:08 - [TEST_STEP][PASSED] - setText: Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1544010179960" data-last-change-time="1544010180818">Ans2</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Ans2'
+
+2018-12-06 12:54:14 - [MESSAGE][PASSED] - Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1544010179960" data-last-change-time="1544010180818">Ans2</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Ans2'
+
+2018-12-06 12:54:14 - [TEST_STEP][PASSED] - setText: Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1544010184795" data-last-change-time="1544010185909">Ans3</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Ans3'
+
+2018-12-06 12:54:19 - [MESSAGE][PASSED] - Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1544010184795" data-last-change-time="1544010185909">Ans3</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Ans3'
+
+2018-12-06 12:54:19 - [TEST_STEP][PASSED] - setText: Text 'raptor123' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Raptor ID_raptor_id'
+
+2018-12-06 12:54:24 - [MESSAGE][PASSED] - Text 'raptor123' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Raptor ID_raptor_id'
+
+2018-12-06 12:54:24 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '1' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_-- Select one --Writer'  using regular expression
+
+2018-12-06 12:54:43 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_-- Select one --Writer'  using regular expression
+
+2018-12-06 12:54:43 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Workflow stage_submit' is clicked on
+
+2018-12-06 12:54:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Workflow stage_submit' is clicked on
+
+2018-12-06 12:54:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_clicking here' is clicked on
+
+2018-12-06 12:54:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_clicking here' is clicked on
+
+2018-12-06 12:54:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_ins_submit' is clicked on
+
+2018-12-06 12:54:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_ins_submit' is clicked on
+
+2018-12-06 12:54:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_submit' is clicked on
+
+2018-12-06 12:54:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_submit' is clicked on
+
+2018-12-06 12:54:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_ins_submit_1' is clicked on
+
+2018-12-06 12:54:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_ins_submit_1' is clicked on
+
+2018-12-06 12:54:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_submit' is clicked on
+
+2018-12-06 12:55:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_submit' is clicked on
+
+2018-12-06 12:55:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_ins_submit_2' is clicked on
+
+2018-12-06 12:55:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_ins_submit_2' is clicked on
+
+2018-12-06 12:55:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_submit' is clicked on
+
+2018-12-06 12:55:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_submit' is clicked on
+
+2018-12-06 12:55:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Try it' is clicked on
+
+2018-12-06 12:55:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Try it' is clicked on
+
+2018-12-06 12:55:09 - [TEST_STEP][PASSED] - switchToWindowTitle: Switched to window with title: 'Bulk Authoring Tool'
+
+2018-12-06 12:55:12 - [MESSAGE][PASSED] - Switched to window with title: 'Bulk Authoring Tool'
+
+2018-12-06 12:55:12 - [TEST_STEP][PASSED] - switchToWindowIndex: Switched to window with index: '1'
+
+2018-12-06 12:55:14 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2018-12-06 12:55:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/button_Close' is clicked on
+
+2018-12-06 12:55:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/button_Close' is clicked on
+
+2018-12-06 12:55:17 - [TEST_STEP][PASSED] - switchToWindowTitle: Switched to window with title: 'Bulk Authoring Tool'
+
+2018-12-06 12:55:20 - [MESSAGE][PASSED] - Switched to window with title: 'Bulk Authoring Tool'
+
+2018-12-06 12:55:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Item list' is clicked on
+
+2018-12-06 12:55:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Item list' is clicked on
+
+2018-12-06 12:55:25 - [TEST_STEP][PASSED] - setText: Text 'FB Automation added1' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Toggle Dropdown_form-con'
+
+2018-12-06 12:55:30 - [MESSAGE][PASSED] - Text 'FB Automation added1' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Toggle Dropdown_form-con'
+
+2018-12-06 12:55:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/svg_Toggle Dropdown_svg-inline' is clicked on
+
+2018-12-06 12:55:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/svg_Toggle Dropdown_svg-inline' is clicked on
+
+2018-12-06 12:55:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Delete' is clicked on
+
+2018-12-06 12:55:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Delete' is clicked on
+
+2018-12-06 12:55:35 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Test User' is clicked on
+
+2018-12-06 12:55:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Test User' is clicked on
+
+2018-12-06 12:55:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Logout' is clicked on
+
+2018-12-06 12:55:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Logout' is clicked on
+
+2018-12-06 12:55:40 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-12-06 12:55:42 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-06 12:53:00 - [TEST_SUITE][PASSED] - BATool Test Suite: Test Cases/CreateItemFB]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

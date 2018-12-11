@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EditChapterDeactiveChapter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6851d14-b79c-4977-a486-da67fcb18aab</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ec2a9111-aeed-4c26-b858-1e1c953d7001</id>
+      <masked>false</masked>
+      <name>V_Productname</name>
+   </variable>
+</TestCaseEntity>

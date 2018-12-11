@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="BATool Test Suite" time="46" tests="1" failures="0" errors="0">
+   <testsuite name="BATool Test Suite" tests="1" failures="0" errors="0" time="46" timestamp="2018-12-04 17:02:42" hostname="ananta.dave - CDAHMLPT056.cignexdatamatics.com" id="Test Suites/BATool Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ananta.dave\\Katalon Studio\\BATool\\Reports\\BATool Test Suite\\20181204_170240"/>
+         <property name="logFiles" value="C:\\Users\\ananta.dave\\Katalon Studio\\BATool\\Reports\\BATool Test Suite\\20181204_170240\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ananta.dave - CDAHMLPT056.cignexdatamatics.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.4.14"/>
+         <property name="browser" value="Chrome 70.0.3538.102"/>
+         <property name="hostAddress" value="192.168.10.208"/>
+         <property name="sessionId" value="00c0e0d06ef0612d247bd7dbffa55fb3"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/EditChapterDeactiveChapter" classname="Test Cases/EditChapterDeactiveChapter" status="PASSED">
+         <system-out><![CDATA[2018-12-04 17:02:42 - [TEST_CASE][PASSED] - Test Cases/EditChapterDeactiveChapter: Test Cases/EditChapterDeactiveChapter
+
+2018-12-04 17:02:43 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-12-04 17:02:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-04 17:02:46 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://bat-qa.macmillan-learning.com/gateway/index.php' successfully
+
+2018-12-04 17:02:48 - [MESSAGE][PASSED] - Navigate to 'https://bat-qa.macmillan-learning.com/gateway/index.php' successfully
+
+2018-12-04 17:02:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Lumina Datamatics/a_Click here' is clicked on
+
+2018-12-04 17:02:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Lumina Datamatics/a_Click here' is clicked on
+
+2018-12-04 17:02:50 - [TEST_STEP][PASSED] - setText: Text 'testuser' is set on object 'Object Repository/Page_Lumina Datamatics/input_User name_username'
+
+2018-12-04 17:02:50 - [MESSAGE][PASSED] - Text 'testuser' is set on object 'Object Repository/Page_Lumina Datamatics/input_User name_username'
+
+2018-12-04 17:02:50 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Page_Lumina Datamatics/input_Password_password'
+
+2018-12-04 17:02:51 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Lumina Datamatics/input_Password_password'
+
+2018-12-04 17:02:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Lumina Datamatics/input_Password_submitButton' is clicked on
+
+2018-12-04 17:02:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Lumina Datamatics/input_Password_submitButton' is clicked on
+
+2018-12-04 17:02:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Common Gateway/a_QTI Authoring' is clicked on
+
+2018-12-04 17:03:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Common Gateway/a_QTI Authoring' is clicked on
+
+2018-12-04 17:03:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/span_Toggle navigation_caret' is clicked on
+
+2018-12-04 17:03:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/span_Toggle navigation_caret' is clicked on
+
+2018-12-04 17:03:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Modify or deactivate chapter' is clicked on
+
+2018-12-04 17:03:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Modify or deactivate chapter' is clicked on
+
+2018-12-04 17:03:05 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'AD Automation added_6' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_205 testAbnormal Psycho'  using regular expression
+
+2018-12-04 17:03:06 - [MESSAGE][PASSED] - All options with label 'AD Automation added_6' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_205 testAbnormal Psycho'  using regular expression
+
+2018-12-04 17:03:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Select product_submit' is clicked on
+
+2018-12-04 17:03:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Select product_submit' is clicked on
+
+2018-12-04 17:03:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Modify' is clicked on
+
+2018-12-04 17:03:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Modify' is clicked on
+
+2018-12-04 17:03:07 - [TEST_STEP][PASSED] - setText: Text 'Chapter added automation_6 updated' is set on object 'Object Repository/Page_Bulk Authoring Tool/input__chap_name'
+
+2018-12-04 17:03:08 - [MESSAGE][PASSED] - Text 'Chapter added automation_6 updated' is set on object 'Object Repository/Page_Bulk Authoring Tool/input__chap_name'
+
+2018-12-04 17:03:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_max. 100 alpha-numericsp' is clicked on
+
+2018-12-04 17:03:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_max. 100 alpha-numericsp' is clicked on
+
+2018-12-04 17:03:08 - [TEST_STEP][PASSED] - rightClick: Object: 'Object Repository/Page_Bulk Authoring Tool/strong_Action Successfull' is right clicked on
+
+2018-12-04 17:03:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/strong_Action Successfull' is right clicked on
+
+2018-12-04 17:03:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/strong_Action Successfull' is clicked on
+
+2018-12-04 17:03:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/strong_Action Successfull' is clicked on
+
+2018-12-04 17:03:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Modify Chapter' is clicked on
+
+2018-12-04 17:03:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Modify Chapter' is clicked on
+
+2018-12-04 17:03:09 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'AD Automation added_6' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_205 testAbnormal Psycho'  using regular expression
+
+2018-12-04 17:03:10 - [MESSAGE][PASSED] - All options with label 'AD Automation added_6' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_205 testAbnormal Psycho'  using regular expression
+
+2018-12-04 17:03:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Select product_submit' is clicked on
+
+2018-12-04 17:03:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Select product_submit' is clicked on
+
+2018-12-04 17:03:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Deactivate' is clicked on
+
+2018-12-04 17:03:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Deactivate' is clicked on
+
+2018-12-04 17:03:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Click here' is clicked on
+
+2018-12-04 17:03:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Click here' is clicked on
+
+2018-12-04 17:03:25 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'AD Automation added_6' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_205 testAbnormal Psycho'  using regular expression
+
+2018-12-04 17:03:26 - [MESSAGE][PASSED] - All options with label 'AD Automation added_6' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_205 testAbnormal Psycho'  using regular expression
+
+2018-12-04 17:03:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Select product_submit' is clicked on
+
+2018-12-04 17:03:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Select product_submit' is clicked on
+
+2018-12-04 17:03:26 - [TEST_STEP][PASSED] - rightClick: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Activate' is right clicked on
+
+2018-12-04 17:03:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Activate' is right clicked on
+
+2018-12-04 17:03:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/td_Modify' is clicked on
+
+2018-12-04 17:03:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/td_Modify' is clicked on
+
+2018-12-04 17:03:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Test User' is clicked on
+
+2018-12-04 17:03:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Test User' is clicked on
+
+2018-12-04 17:03:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Logout' is clicked on
+
+2018-12-04 17:03:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Logout' is clicked on
+
+2018-12-04 17:03:28 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-12-04 17:03:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-04 17:02:42 - [TEST_SUITE][PASSED] - BATool Test Suite: Test Cases/EditChapterDeactiveChapter]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

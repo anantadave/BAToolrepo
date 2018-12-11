@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyItemsinlisting</name>
+   <tag></tag>
+   <comment>Find a matching text in a table and performing action</comment>
+   <testCaseGuid>5fca7b9e-f4d4-49e6-900a-85c9a0dd6e96</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa55a1c1-24c6-4ba7-91e0-79609f608353</id>
+      <masked>false</masked>
+      <name>V_Productname</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="BATool Test Suite" time="236" tests="1" failures="0" errors="0">
+   <testsuite name="BATool Test Suite" tests="1" failures="0" errors="0" time="236" timestamp="2018-12-10 12:13:09" hostname="ananta.dave - CDAHMLPT056.cignexdatamatics.com" id="Test Suites/BATool Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ananta.dave\\Katalon Studio\\BATool\\Reports\\BATool Test Suite\\20181210_121307"/>
+         <property name="logFiles" value="C:\\Users\\ananta.dave\\Katalon Studio\\BATool\\Reports\\BATool Test Suite\\20181210_121307\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ananta.dave - CDAHMLPT056.cignexdatamatics.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.4.14"/>
+         <property name="browser" value="Chrome 70.0.3538.102"/>
+         <property name="hostAddress" value="192.168.10.208"/>
+         <property name="sessionId" value="3199e1ab637d4a37f0ea8c61da71c851"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/AddMetadataTagValue" classname="Test Cases/AddMetadataTagValue" status="PASSED">
+         <system-out><![CDATA[2018-12-10 12:13:10 - [TEST_CASE][PASSED] - Test Cases/AddMetadataTagValue: Test Cases/AddMetadataTagValue
+
+2018-12-10 12:13:10 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-12-10 12:13:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-10 12:13:16 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://bat-qa.macmillan-learning.com/gateway/index.php' successfully
+
+2018-12-10 12:13:18 - [MESSAGE][PASSED] - Navigate to 'https://bat-qa.macmillan-learning.com/gateway/index.php' successfully
+
+2018-12-10 12:13:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Lumina Datamatics/a_Click here' is clicked on
+
+2018-12-10 12:13:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Lumina Datamatics/a_Click here' is clicked on
+
+2018-12-10 12:13:22 - [TEST_STEP][PASSED] - setText: Text 'testuser' is set on object 'Object Repository/Page_Lumina Datamatics/input_User name_username'
+
+2018-12-10 12:13:26 - [MESSAGE][PASSED] - Text 'testuser' is set on object 'Object Repository/Page_Lumina Datamatics/input_User name_username'
+
+2018-12-10 12:13:26 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Page_Lumina Datamatics/input_Password_password'
+
+2018-12-10 12:13:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Lumina Datamatics/input_Password_password'
+
+2018-12-10 12:13:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Lumina Datamatics/input_Password_submitButton' is clicked on
+
+2018-12-10 12:13:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Lumina Datamatics/input_Password_submitButton' is clicked on
+
+2018-12-10 12:13:42 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Common Gateway/a_QTI Authoring' is clicked on
+
+2018-12-10 12:14:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Common Gateway/a_QTI Authoring' is clicked on
+
+2018-12-10 12:14:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/span_Toggle navigation_caret' is clicked on
+
+2018-12-10 12:14:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/span_Toggle navigation_caret' is clicked on
+
+2018-12-10 12:14:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Manage metadata tags' is clicked on
+
+2018-12-10 12:14:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Manage metadata tags' is clicked on
+
+2018-12-10 12:14:15 - [TEST_STEP][PASSED] - setText: Text 'AD Automation added_7' is set on object 'Object Repository/Page_Bulk Authoring Tool/input__list_head'
+
+2018-12-10 12:14:19 - [MESSAGE][PASSED] - Text 'AD Automation added_7' is set on object 'Object Repository/Page_Bulk Authoring Tool/input__list_head'
+
+2018-12-10 12:14:19 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '64' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_205 testAbnormal Psycho'  using regular expression
+
+2018-12-10 12:15:27 - [MESSAGE][PASSED] - All options with value '64' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_205 testAbnormal Psycho'  using regular expression
+
+2018-12-10 12:15:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Hold Control (in Windows' is clicked on
+
+2018-12-10 12:15:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Hold Control (in Windows' is clicked on
+
+2018-12-10 12:15:31 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Add metadata values' is clicked on
+
+2018-12-10 12:15:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Add metadata values' is clicked on
+
+2018-12-10 12:15:33 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '64' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_--Select Product --'  using regular expression
+
+2018-12-10 12:16:29 - [MESSAGE][PASSED] - All options with value '64' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_--Select Product --'  using regular expression
+
+2018-12-10 12:16:29 - [TEST_STEP][PASSED] - setText: Text 'Value1' is set on object 'Object Repository/Page_Bulk Authoring Tool/textarea_Metadata value_metada'
+
+2018-12-10 12:16:33 - [MESSAGE][PASSED] - Text 'Value1' is set on object 'Object Repository/Page_Bulk Authoring Tool/textarea_Metadata value_metada'
+
+2018-12-10 12:16:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Metadata value_submit' is clicked on
+
+2018-12-10 12:16:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Metadata value_submit' is clicked on
+
+2018-12-10 12:16:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Go to homepage' is clicked on
+
+2018-12-10 12:16:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Go to homepage' is clicked on
+
+2018-12-10 12:16:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/span_Downloads_caret' is clicked on
+
+2018-12-10 12:17:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/span_Downloads_caret' is clicked on
+
+2018-12-10 12:17:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Logout' is clicked on
+
+2018-12-10 12:17:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Logout' is clicked on
+
+2018-12-10 12:17:04 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-12-10 12:17:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-10 12:13:09 - [TEST_SUITE][PASSED] - BATool Test Suite: Test Cases/AddMetadataTagValue]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

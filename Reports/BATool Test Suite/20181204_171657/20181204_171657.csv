@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+BATool Test Suite,Chrome 70.0.3538.102,,2018-12-04 17:16:58,2018-12-04 17:17:44,45.808s,ERROR
+,,,,,,
+Test Cases/VerifyItemsinlisting,Chrome 70.0.3538.102,,2018-12-04 17:16:59,2018-12-04 17:17:43,44.463s,ERROR
+openBrowser,Chrome 70.0.3538.102,,2018-12-04 17:17:00,2018-12-04 17:17:03,3.332s,PASSED
+navigateToUrl,Chrome 70.0.3538.102,,2018-12-04 17:17:03,2018-12-04 17:17:17,13.635s,PASSED
+click,Chrome 70.0.3538.102,,2018-12-04 17:17:17,2018-12-04 17:17:19,2.660s,PASSED
+setText,Chrome 70.0.3538.102,,2018-12-04 17:17:19,2018-12-04 17:17:19,0.253s,PASSED
+setEncryptedText,Chrome 70.0.3538.102,,2018-12-04 17:17:19,2018-12-04 17:17:20,0.499s,PASSED
+click,Chrome 70.0.3538.102,,2018-12-04 17:17:20,2018-12-04 17:17:26,5.969s,PASSED
+click,Chrome 70.0.3538.102,,2018-12-04 17:17:26,2018-12-04 17:17:39,12.692s,PASSED
+click,Chrome 70.0.3538.102,,2018-12-04 17:17:39,2018-12-04 17:17:39,0.110s,PASSED
+click,Chrome 70.0.3538.102,,2018-12-04 17:17:39,2018-12-04 17:17:43,4.493s,PASSED
+"Statement - ExpectedValue = ""V_Productname""",Chrome 70.0.3538.102,,2018-12-04 17:17:43,2018-12-04 17:17:43,0.001s,PASSED
+Statement - driver = com.kms.katalon.core.webui.driver.DriverFactory.getWebDriver(),Chrome 70.0.3538.102,,2018-12-04 17:17:43,2018-12-04 17:17:43,0.013s,PASSED
+"Statement - Table = driver.findElement(org.openqa.selenium.By.xpath(""//div[@name='udt-table']//div[@class='col-md-12 col-lg-12']""))",Chrome 70.0.3538.102,,2018-12-04 17:17:43,2018-12-04 17:17:43,0.052s,PASSED

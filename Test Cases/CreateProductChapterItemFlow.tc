@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateProductChapterItemFlow</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ff79b73-13e6-426a-9a76-137e69d0c9d6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c51529b-58c9-49dd-a3d3-44bc6477c7f1</id>
+      <masked>false</masked>
+      <name>V_Productname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2bb48a4d-4a77-4783-b4bb-7c40219dbfed</id>
+      <masked>false</masked>
+      <name>V_Chaptername</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>81fbe1f5-f2fe-42f7-b0a5-ebff3dce9b5c</id>
+      <masked>false</masked>
+      <name>V_Itemname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e6de711b-b107-4bdf-a2a8-d4a67e7af332</id>
+      <masked>false</masked>
+      <name>V_ISBN</name>
+   </variable>
+</TestCaseEntity>

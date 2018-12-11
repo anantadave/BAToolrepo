@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="BATool Test Suite" time="62" tests="1" failures="0" errors="0">
+   <testsuite name="BATool Test Suite" tests="1" failures="0" errors="0" time="62" timestamp="2018-12-03 15:33:42" hostname="ananta.dave - CDAHMLPT056.cignexdatamatics.com" id="Test Suites/BATool Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ananta.dave\\Katalon Studio\\BATool\\Reports\\BATool Test Suite\\20181203_153340"/>
+         <property name="logFiles" value="C:\\Users\\ananta.dave\\Katalon Studio\\BATool\\Reports\\BATool Test Suite\\20181203_153340\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ananta.dave - CDAHMLPT056.cignexdatamatics.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.4.14"/>
+         <property name="browser" value="Chrome 70.0.3538.102"/>
+         <property name="hostAddress" value="192.168.10.208"/>
+         <property name="sessionId" value="fcf734b42c7430ab28e6f1ce6101fe66"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/CreateProductChapterItemFlow" classname="Test Cases/CreateProductChapterItemFlow" status="PASSED">
+         <system-out><![CDATA[2018-12-03 15:33:43 - [TEST_CASE][PASSED] - Test Cases/CreateProductChapterItemFlow: Test Cases/CreateProductChapterItemFlow
+
+2018-12-03 15:33:44 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-12-03 15:33:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-03 15:33:50 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://bat-qa.macmillan-learning.com/gateway/index.php' successfully
+
+2018-12-03 15:33:52 - [MESSAGE][PASSED] - Navigate to 'https://bat-qa.macmillan-learning.com/gateway/index.php' successfully
+
+2018-12-03 15:33:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Lumina Datamatics/a_Click here' is clicked on
+
+2018-12-03 15:33:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Lumina Datamatics/a_Click here' is clicked on
+
+2018-12-03 15:33:54 - [TEST_STEP][PASSED] - setText: Text 'testuser' is set on object 'Object Repository/Page_Lumina Datamatics/input_User name_username'
+
+2018-12-03 15:33:54 - [MESSAGE][PASSED] - Text 'testuser' is set on object 'Object Repository/Page_Lumina Datamatics/input_User name_username'
+
+2018-12-03 15:33:54 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Page_Lumina Datamatics/input_Password_password'
+
+2018-12-03 15:33:55 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Lumina Datamatics/input_Password_password'
+
+2018-12-03 15:33:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Lumina Datamatics/input_Password_submitButton' is clicked on
+
+2018-12-03 15:34:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Lumina Datamatics/input_Password_submitButton' is clicked on
+
+2018-12-03 15:34:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Common Gateway/a_QTI Authoring' is clicked on
+
+2018-12-03 15:34:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Common Gateway/a_QTI Authoring' is clicked on
+
+2018-12-03 15:34:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/span_Toggle navigation_caret' is clicked on
+
+2018-12-03 15:34:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/span_Toggle navigation_caret' is clicked on
+
+2018-12-03 15:34:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Create new product' is clicked on
+
+2018-12-03 15:34:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Create new product' is clicked on
+
+2018-12-03 15:34:05 - [TEST_STEP][PASSED] - setText: Text 'AD Automation added_6' is set on object 'Object Repository/Page_Bulk Authoring Tool/input__title'
+
+2018-12-03 15:34:05 - [MESSAGE][PASSED] - Text 'AD Automation added_6' is set on object 'Object Repository/Page_Bulk Authoring Tool/input__title'
+
+2018-12-03 15:34:05 - [TEST_STEP][PASSED] - setText: Text '12369added6' is set on object 'Object Repository/Page_Bulk Authoring Tool/input__isbn'
+
+2018-12-03 15:34:05 - [MESSAGE][PASSED] - Text '12369added6' is set on object 'Object Repository/Page_Bulk Authoring Tool/input__isbn'
+
+2018-12-03 15:34:05 - [TEST_STEP][PASSED] - setText: Text 'AD automation' is set on object 'Object Repository/Page_Bulk Authoring Tool/input__author'
+
+2018-12-03 15:34:06 - [MESSAGE][PASSED] - Text 'AD automation' is set on object 'Object Repository/Page_Bulk Authoring Tool/input__author'
+
+2018-12-03 15:34:06 - [TEST_STEP][PASSED] - setText: Text 'testing' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Comments_comments'
+
+2018-12-03 15:34:06 - [MESSAGE][PASSED] - Text 'testing' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Comments_comments'
+
+2018-12-03 15:34:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_max. 200 alpha-numericsp' is clicked on
+
+2018-12-03 15:34:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_max. 200 alpha-numericsp' is clicked on
+
+2018-12-03 15:34:06 - [TEST_STEP][PASSED] - rightClick: Object: 'Object Repository/Page_Bulk Authoring Tool/strong_Action Successful' is right clicked on
+
+2018-12-03 15:34:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/strong_Action Successful' is right clicked on
+
+2018-12-03 15:34:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/body_Toggle navigation' is clicked on
+
+2018-12-03 15:34:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/body_Toggle navigation' is clicked on
+
+2018-12-03 15:34:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Allocate to users' is clicked on
+
+2018-12-03 15:34:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Allocate to users' is clicked on
+
+2018-12-03 15:34:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Select member(s) to allo' is clicked on
+
+2018-12-03 15:34:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Select member(s) to allo' is clicked on
+
+2018-12-03 15:34:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Status_submit' is clicked on
+
+2018-12-03 15:34:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Status_submit' is clicked on
+
+2018-12-03 15:34:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Create Chapterstopics' is clicked on
+
+2018-12-03 15:34:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Create Chapterstopics' is clicked on
+
+2018-12-03 15:34:09 - [TEST_STEP][PASSED] - setText: Text 'Chapter added automation_6' is set on object 'Object Repository/Page_Bulk Authoring Tool/input__chap_title'
+
+2018-12-03 15:34:10 - [MESSAGE][PASSED] - Text 'Chapter added automation_6' is set on object 'Object Repository/Page_Bulk Authoring Tool/input__chap_title'
+
+2018-12-03 15:34:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_max. 100 alpha-numericsp' is clicked on
+
+2018-12-03 15:34:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_max. 100 alpha-numericsp' is clicked on
+
+2018-12-03 15:34:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Create Item' is clicked on
+
+2018-12-03 15:34:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Create Item' is clicked on
+
+2018-12-03 15:34:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Multiple Choice (Single Sele' is clicked on
+
+2018-12-03 15:34:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Multiple Choice (Single Sele' is clicked on
+
+2018-12-03 15:34:15 - [TEST_STEP][PASSED] - setText: Text 'MC multi automation_6' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Title_title'
+
+2018-12-03 15:34:15 - [MESSAGE][PASSED] - Text 'MC multi automation_6' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Title_title'
+
+2018-12-03 15:34:15 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'AD Automation added_6' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_Select ProductTicket Te'  using regular expression
+
+2018-12-03 15:34:19 - [MESSAGE][PASSED] - All options with label 'AD Automation added_6' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_Select ProductTicket Te'  using regular expression
+
+2018-12-03 15:34:19 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Chapter added automation_6' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_Select ChapterChapter A'  using regular expression
+
+2018-12-03 15:34:20 - [MESSAGE][PASSED] - All options with label 'Chapter added automation_6' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_Select ChapterChapter A'  using regular expression
+
+2018-12-03 15:34:20 - [TEST_STEP][PASSED] - setText: Text 'Test hint' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Hint_hint'
+
+2018-12-03 15:34:20 - [MESSAGE][PASSED] - Text 'Test hint' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Hint_hint'
+
+2018-12-03 15:34:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Hint_desctoo' is clicked on
+
+2018-12-03 15:34:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Hint_desctoo' is clicked on
+
+2018-12-03 15:34:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_stemtoo' is clicked on
+
+2018-12-03 15:34:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_stemtoo' is clicked on
+
+2018-12-03 15:34:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_mc_promptt' is clicked on
+
+2018-12-03 15:34:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Elements path_mc_promptt' is clicked on
+
+2018-12-03 15:34:21 - [TEST_STEP][PASSED] - setText: Text 'Default feedback' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Default Feedback_default'
+
+2018-12-03 15:34:21 - [MESSAGE][PASSED] - Text 'Default feedback' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Default Feedback_default'
+
+2018-12-03 15:34:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_YesNo_randomization' is clicked on
+
+2018-12-03 15:34:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_YesNo_randomization' is clicked on
+
+2018-12-03 15:34:21 - [TEST_STEP][PASSED] - setText: Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818594195" data-last-change-time="1543818595162">Option A</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option A'
+
+2018-12-03 15:34:24 - [MESSAGE][PASSED] - Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818594195" data-last-change-time="1543818595162">Option A</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option A'
+
+2018-12-03 15:34:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/p' is clicked on
+
+2018-12-03 15:34:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/p' is clicked on
+
+2018-12-03 15:34:24 - [TEST_STEP][PASSED] - setText: Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818598078" data-last-change-time="1543818600821" style="">Option A feedback</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option A feedback'
+
+2018-12-03 15:34:26 - [MESSAGE][PASSED] - Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818598078" data-last-change-time="1543818600821" style="">Option A feedback</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option A feedback'
+
+2018-12-03 15:34:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/p_1' is clicked on
+
+2018-12-03 15:34:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/p_1' is clicked on
+
+2018-12-03 15:34:26 - [TEST_STEP][PASSED] - setText: Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818603301" data-last-change-time="1543818604168" style="">Option B</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option B'
+
+2018-12-03 15:34:28 - [MESSAGE][PASSED] - Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818603301" data-last-change-time="1543818604168" style="">Option B</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option B'
+
+2018-12-03 15:34:28 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/p_2' is clicked on
+
+2018-12-03 15:34:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/p_2' is clicked on
+
+2018-12-03 15:34:28 - [TEST_STEP][PASSED] - setText: Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818607082" data-last-change-time="1543818609562" style="">Option B feedback</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option B feedback'
+
+2018-12-03 15:34:30 - [MESSAGE][PASSED] - Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818607082" data-last-change-time="1543818609562" style="">Option B feedback</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option B feedback'
+
+2018-12-03 15:34:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/p_3' is clicked on
+
+2018-12-03 15:34:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/p_3' is clicked on
+
+2018-12-03 15:34:30 - [TEST_STEP][PASSED] - setText: Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818612966" data-last-change-time="1543818613987" style="">Option C</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option C'
+
+2018-12-03 15:34:33 - [MESSAGE][PASSED] - Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818612966" data-last-change-time="1543818613987" style="">Option C</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option C'
+
+2018-12-03 15:34:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/p_4' is clicked on
+
+2018-12-03 15:34:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/p_4' is clicked on
+
+2018-12-03 15:34:33 - [TEST_STEP][PASSED] - setText: Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818616328" data-last-change-time="1543818620388" style="">Option C feedback</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option C feedback'
+
+2018-12-03 15:34:35 - [MESSAGE][PASSED] - Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818616328" data-last-change-time="1543818620388" style="">Option C feedback</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option C feedback'
+
+2018-12-03 15:34:35 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/p_5' is clicked on
+
+2018-12-03 15:34:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/p_5' is clicked on
+
+2018-12-03 15:34:35 - [TEST_STEP][PASSED] - setText: Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818623227" data-last-change-time="1543818623540" style="">Option D</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option D'
+
+2018-12-03 15:34:37 - [MESSAGE][PASSED] - Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818623227" data-last-change-time="1543818623540" style="">Option D</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option D'
+
+2018-12-03 15:34:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/p_6' is clicked on
+
+2018-12-03 15:34:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/p_6' is clicked on
+
+2018-12-03 15:34:37 - [TEST_STEP][PASSED] - setText: Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818626336" data-last-change-time="1543818628071" style="">Option D feedback</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option D feedback'
+
+2018-12-03 15:34:39 - [MESSAGE][PASSED] - Text '<p style=""><ins class="ice-ins ice-cts" data-cid="2" data-userid="" data-username="" data-changedata="" data-time="1543818626336" data-last-change-time="1543818628071" style="">Option D feedback</ins><br></p>' is set on object 'Object Repository/Page_Bulk Authoring Tool/div_Option D feedback'
+
+2018-12-03 15:34:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Option B_correct_answer' is clicked on
+
+2018-12-03 15:34:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Option B_correct_answer' is clicked on
+
+2018-12-03 15:34:39 - [TEST_STEP][PASSED] - setText: Text 'raptor1234' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Raptor ID_raptor_id'
+
+2018-12-03 15:34:40 - [MESSAGE][PASSED] - Text 'raptor1234' is set on object 'Object Repository/Page_Bulk Authoring Tool/input_Raptor ID_raptor_id'
+
+2018-12-03 15:34:40 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '1' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_-- Select one --Writer'  using regular expression
+
+2018-12-03 15:34:40 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Bulk Authoring Tool/select_-- Select one --Writer'  using regular expression
+
+2018-12-03 15:34:40 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/input_Workflow stage_submit' is clicked on
+
+2018-12-03 15:34:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/input_Workflow stage_submit' is clicked on
+
+2018-12-03 15:34:42 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Test User' is clicked on
+
+2018-12-03 15:34:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Test User' is clicked on
+
+2018-12-03 15:34:43 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Logout' is clicked on
+
+2018-12-03 15:34:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Logout' is clicked on
+
+2018-12-03 15:34:44 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-12-03 15:34:45 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-03 15:33:42 - [TEST_SUITE][PASSED] - BATool Test Suite: Test Cases/CreateProductChapterItemFlow]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
