@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>	Select Chapter
-Chapter Automation added_1</value>
+Chapter added automation_9</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

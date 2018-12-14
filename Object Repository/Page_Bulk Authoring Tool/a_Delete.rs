@@ -24,7 +24,7 @@
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>delete_item.php?item_id=42025</value>
+      <value>delete_item.php?item_id=145852</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,12 +69,18 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
-      <value>//a[contains(@href, 'delete_item.php?item_id=42025')]</value>
+      <value>//a[contains(@href, 'delete_item.php?item_id=145852')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <value>//a[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <value>//a[contains(@href, 'delete_item.php?item_id=42025')]</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -4,7 +4,7 @@
    <name>BATool Test Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-12-11T14:43:10</lastRun>
+   <lastRun>2018-12-14T11:14:10</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -12,99 +12,9 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <testSuiteGuid>a0a2d736-6112-4693-a8cf-404b0a0ba40b</testSuiteGuid>
    <testCaseLink>
-      <guid>4f91f81d-b17b-4dd5-a6cb-ca6fde4630b4</guid>
+      <guid>e435072c-fca2-4e1b-9792-0885aa68812f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/CreateItemFB</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>9738b7c6-2ff6-41d7-b315-0c91a0b0e40e</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/Test Data</testDataId>
-      </testDataLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>de459de8-167b-4f1e-a73a-e726e0996747</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/AddMetadataTagValue</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>b182cab4-eff2-4896-a9fa-844854aa37a8</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/Test Data</testDataId>
-      </testDataLink>
-      <variableLink>
-         <testDataLinkId>b182cab4-eff2-4896-a9fa-844854aa37a8</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Productname</value>
-         <variableId>0db7143b-552b-42bc-9949-d8f25f7c6a58</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>41d39e9e-a72f-458b-87c2-9fdfece2688c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/CreateProductChapterItemFlow</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>6b5660a6-5ad3-461a-a859-ad5d3eb0e7fe</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/Test Data</testDataId>
-      </testDataLink>
-      <variableLink>
-         <testDataLinkId>6b5660a6-5ad3-461a-a859-ad5d3eb0e7fe</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Productname</value>
-         <variableId>4c51529b-58c9-49dd-a3d3-44bc6477c7f1</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>6b5660a6-5ad3-461a-a859-ad5d3eb0e7fe</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Chaptername</value>
-         <variableId>2bb48a4d-4a77-4783-b4bb-7c40219dbfed</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>6b5660a6-5ad3-461a-a859-ad5d3eb0e7fe</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Itemname</value>
-         <variableId>81fbe1f5-f2fe-42f7-b0a5-ebff3dce9b5c</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>6b5660a6-5ad3-461a-a859-ad5d3eb0e7fe</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>ISBN</value>
-         <variableId>e6de711b-b107-4bdf-a2a8-d4a67e7af332</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>ce85e9be-7311-4bb5-b4cb-89b323817dbf</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/EditChapterDeactiveChapter</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>0972ba5e-1dcd-4aec-b5e6-77b4c9de3a62</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/Test Data</testDataId>
-      </testDataLink>
-      <variableLink>
-         <testDataLinkId>0972ba5e-1dcd-4aec-b5e6-77b4c9de3a62</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Productname</value>
-         <variableId>ec2a9111-aeed-4c26-b858-1e1c953d7001</variableId>
-      </variableLink>
+      <testCaseId>Test Cases/Test Case1</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

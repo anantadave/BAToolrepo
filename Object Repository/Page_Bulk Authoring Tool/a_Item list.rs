@@ -24,7 +24,7 @@
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>reviewlist_angularjs.php?condition=&amp;book_id=155&amp;administered=&amp;chapter=&amp;destination=</value>
+      <value>reviewlist_angularjs.php?condition=&amp;book_id=124&amp;administered=&amp;chapter=&amp;destination=</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='raptor123'])[1]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[2]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
-      <value>//a[contains(@href, 'reviewlist_angularjs.php?condition=&amp;book_id=155&amp;administered=&amp;chapter=&amp;destination=')]</value>
+      <value>//a[contains(@href, 'reviewlist_angularjs.php?condition=&amp;book_id=124&amp;administered=&amp;chapter=&amp;destination=')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,13 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[2]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='raptor123'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <value>//a[contains(@href, 'reviewlist_angularjs.php?condition=&amp;book_id=155&amp;administered=&amp;chapter=&amp;destination=')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

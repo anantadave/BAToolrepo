@@ -24,7 +24,7 @@
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>review.php?item_id=42025</value>
+      <value>review.php?item_id=145852</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,13 +75,19 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
-      <value>//a[contains(@href, 'review.php?item_id=42025')]</value>
+      <value>//a[contains(@href, 'review.php?item_id=145852')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <value>//div[2]/div/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <value>//a[contains(@href, 'review.php?item_id=42025')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
