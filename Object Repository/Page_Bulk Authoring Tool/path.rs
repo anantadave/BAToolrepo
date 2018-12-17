@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//*[@class='svg-inline--fa fa-search fa-w-16']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
