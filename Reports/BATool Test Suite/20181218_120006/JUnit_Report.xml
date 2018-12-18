@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="BATool Test Suite" time="66" tests="1" failures="0" errors="0">
+   <testsuite name="BATool Test Suite" tests="1" failures="0" errors="0" time="66" timestamp="2018-12-18 12:00:11" hostname="ananta.dave - CDAHMLPT056.cignexdatamatics.com" id="Test Suites/BATool Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ananta.dave\\Katalon Studio\\BATool\\Reports\\BATool Test Suite\\20181218_120006"/>
+         <property name="logFiles" value="C:\\Users\\ananta.dave\\Katalon Studio\\BATool\\Reports\\BATool Test Suite\\20181218_120006\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ananta.dave - CDAHMLPT056.cignexdatamatics.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.4.14"/>
+         <property name="browser" value="Chrome 71.0.3578.80"/>
+         <property name="hostAddress" value="192.168.10.208"/>
+         <property name="sessionId" value="05976885ee471e11603915e1171ceeaa"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test Case1" classname="Test Cases/Test Case1" status="PASSED">
+         <system-out><![CDATA[2018-12-18 12:00:12 - [TEST_CASE][PASSED] - Test Cases/Test Case1: Test Cases/Test Case1
+
+2018-12-18 12:00:13 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-12-18 12:00:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-18 12:00:22 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://bat-qa.macmillan-learning.com/gateway/index.php' successfully
+
+2018-12-18 12:00:26 - [MESSAGE][PASSED] - Navigate to 'https://bat-qa.macmillan-learning.com/gateway/index.php' successfully
+
+2018-12-18 12:00:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Lumina Datamatics/a_Click here' is clicked on
+
+2018-12-18 12:00:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Lumina Datamatics/a_Click here' is clicked on
+
+2018-12-18 12:00:30 - [TEST_STEP][PASSED] - setText: Text 'testuser' is set on object 'Object Repository/Page_Lumina Datamatics/input_User name_username'
+
+2018-12-18 12:00:34 - [MESSAGE][PASSED] - Text 'testuser' is set on object 'Object Repository/Page_Lumina Datamatics/input_User name_username'
+
+2018-12-18 12:00:34 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Page_Lumina Datamatics/input_Password_password'
+
+2018-12-18 12:00:38 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Lumina Datamatics/input_Password_password'
+
+2018-12-18 12:00:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Lumina Datamatics/input_Password_submitButton' is clicked on
+
+2018-12-18 12:00:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Lumina Datamatics/input_Password_submitButton' is clicked on
+
+2018-12-18 12:00:46 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Common Gateway/a_Bulk Authoring Tool' is clicked on
+
+2018-12-18 12:01:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Common Gateway/a_Bulk Authoring Tool' is clicked on
+
+2018-12-18 12:01:09 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-12-18 12:01:09 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-12-18 12:01:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Test User' is clicked on
+
+2018-12-18 12:01:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Test User' is clicked on
+
+2018-12-18 12:01:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Bulk Authoring Tool/a_Logout' is clicked on
+
+2018-12-18 12:01:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bulk Authoring Tool/a_Logout' is clicked on
+
+2018-12-18 12:01:16 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-12-18 12:01:18 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-18 12:00:11 - [TEST_SUITE][PASSED] - BATool Test Suite: Test Cases/Test Case1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
