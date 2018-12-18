@@ -2,8 +2,8 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2018-12-17T19:08:38</date>
-  <millis>1545053918394</millis>
+  <date>2018-12-18T11:55:55</date>
+  <millis>1545114355271</millis>
   <sequence>0</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -16,8 +16,8 @@
   <property name="id">Test Suites/BATool Test Suite</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:38</date>
-  <millis>1545053918455</millis>
+  <date>2018-12-18T11:55:55</date>
+  <millis>1545114355311</millis>
   <sequence>1</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -28,8 +28,8 @@
   <property name="hostName">ananta.dave - CDAHMLPT056.cignexdatamatics.com</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:38</date>
-  <millis>1545053918460</millis>
+  <date>2018-12-18T11:55:55</date>
+  <millis>1545114355313</millis>
   <sequence>2</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -40,20 +40,20 @@
   <property name="os">Windows 10 64bit</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:38</date>
-  <millis>1545053918462</millis>
+  <date>2018-12-18T11:55:55</date>
+  <millis>1545114355314</millis>
   <sequence>3</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;192.168.101.161&amp;apos;</message>
+  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;192.168.10.208&amp;apos;</message>
   <nestedLevel>0</nestedLevel>
-  <property name="hostAddress">192.168.101.161</property>
+  <property name="hostAddress">192.168.10.208</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:38</date>
-  <millis>1545053918465</millis>
+  <date>2018-12-18T11:55:55</date>
+  <millis>1545114355331</millis>
   <sequence>4</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -64,8 +64,8 @@
   <property name="katalonVersion">5.8.4.14</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:38</date>
-  <millis>1545053918989</millis>
+  <date>2018-12-18T11:55:55</date>
+  <millis>1545114355859</millis>
   <sequence>5</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -80,8 +80,8 @@
   <property name="isOptional">false</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:39</date>
-  <millis>1545053919037</millis>
+  <date>2018-12-18T11:55:55</date>
+  <millis>1545114355905</millis>
   <sequence>6</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -91,8 +91,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:39</date>
-  <millis>1545053919043</millis>
+  <date>2018-12-18T11:55:55</date>
+  <millis>1545114355906</millis>
   <sequence>7</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -102,8 +102,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:39</date>
-  <millis>1545053919044</millis>
+  <date>2018-12-18T11:55:55</date>
+  <millis>1545114355909</millis>
   <sequence>8</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -113,8 +113,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:39</date>
-  <millis>1545053919572</millis>
+  <date>2018-12-18T11:55:56</date>
+  <millis>1545114356540</millis>
   <sequence>9</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -126,8 +126,8 @@
   <property name="stepIndex">1</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:40</date>
-  <millis>1545053920198</millis>
+  <date>2018-12-18T11:55:57</date>
+  <millis>1545114357084</millis>
   <sequence>10</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -137,8 +137,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:40</date>
-  <millis>1545053920208</millis>
+  <date>2018-12-18T11:55:57</date>
+  <millis>1545114357095</millis>
   <sequence>11</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -148,8 +148,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:40</date>
-  <millis>1545053920261</millis>
+  <date>2018-12-18T11:55:57</date>
+  <millis>1545114357142</millis>
   <sequence>12</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -159,20 +159,20 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:45</date>
-  <millis>1545053925976</millis>
+  <date>2018-12-18T11:56:02</date>
+  <millis>1545114362312</millis>
   <sequence>14</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;9f9dc38e740b8c5413aed5f677e09ff9&amp;apos;</message>
+  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;dd9a0d9ffa436b91c1c9e6df19bfd7ab&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
-  <property name="sessionId">9f9dc38e740b8c5413aed5f677e09ff9</property>
+  <property name="sessionId">dd9a0d9ffa436b91c1c9e6df19bfd7ab</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:47</date>
-  <millis>1545053927014</millis>
+  <date>2018-12-18T11:56:03</date>
+  <millis>1545114363369</millis>
   <sequence>15</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -183,8 +183,8 @@
   <property name="browser">Chrome 71.0.3578.80</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:47</date>
-  <millis>1545053927017</millis>
+  <date>2018-12-18T11:56:03</date>
+  <millis>1545114363371</millis>
   <sequence>16</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -195,8 +195,8 @@
   <property name="platform">Windows 10</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:47</date>
-  <millis>1545053927026</millis>
+  <date>2018-12-18T11:56:03</date>
+  <millis>1545114363374</millis>
   <sequence>17</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -207,8 +207,8 @@
   <property name="seleniumVersion">3.7.1</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:47</date>
-  <millis>1545053927027</millis>
+  <date>2018-12-18T11:56:03</date>
+  <millis>1545114363375</millis>
   <sequence>18</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -219,8 +219,8 @@
   <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:47</date>
-  <millis>1545053927029</millis>
+  <date>2018-12-18T11:56:03</date>
+  <millis>1545114363377</millis>
   <sequence>19</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -230,8 +230,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:47</date>
-  <millis>1545053927030</millis>
+  <date>2018-12-18T11:56:03</date>
+  <millis>1545114363378</millis>
   <sequence>20</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -241,8 +241,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:47</date>
-  <millis>1545053927031</millis>
+  <date>2018-12-18T11:56:03</date>
+  <millis>1545114363378</millis>
   <sequence>21</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -254,8 +254,8 @@
   <property name="stepIndex">2</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:47</date>
-  <millis>1545053927063</millis>
+  <date>2018-12-18T11:56:03</date>
+  <millis>1545114363410</millis>
   <sequence>22</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -265,8 +265,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:47</date>
-  <millis>1545053927065</millis>
+  <date>2018-12-18T11:56:03</date>
+  <millis>1545114363414</millis>
   <sequence>23</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -276,8 +276,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:49</date>
-  <millis>1545053929717</millis>
+  <date>2018-12-18T11:56:06</date>
+  <millis>1545114366174</millis>
   <sequence>24</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -287,8 +287,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:49</date>
-  <millis>1545053929719</millis>
+  <date>2018-12-18T11:56:06</date>
+  <millis>1545114366175</millis>
   <sequence>25</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -298,8 +298,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:49</date>
-  <millis>1545053929720</millis>
+  <date>2018-12-18T11:56:06</date>
+  <millis>1545114366175</millis>
   <sequence>26</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -311,8 +311,8 @@
   <property name="stepIndex">3</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:49</date>
-  <millis>1545053929732</millis>
+  <date>2018-12-18T11:56:06</date>
+  <millis>1545114366187</millis>
   <sequence>27</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -322,8 +322,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:51</date>
-  <millis>1545053931485</millis>
+  <date>2018-12-18T11:56:06</date>
+  <millis>1545114366344</millis>
   <sequence>28</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -333,8 +333,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:51</date>
-  <millis>1545053931486</millis>
+  <date>2018-12-18T11:56:06</date>
+  <millis>1545114366346</millis>
   <sequence>29</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -344,8 +344,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:51</date>
-  <millis>1545053931492</millis>
+  <date>2018-12-18T11:56:06</date>
+  <millis>1545114366398</millis>
   <sequence>30</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -355,8 +355,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:52</date>
-  <millis>1545053932526</millis>
+  <date>2018-12-18T11:56:07</date>
+  <millis>1545114367429</millis>
   <sequence>31</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -366,8 +366,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:52</date>
-  <millis>1545053932527</millis>
+  <date>2018-12-18T11:56:07</date>
+  <millis>1545114367431</millis>
   <sequence>32</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -377,8 +377,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:54</date>
-  <millis>1545053934745</millis>
+  <date>2018-12-18T11:56:09</date>
+  <millis>1545114369710</millis>
   <sequence>33</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -388,8 +388,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:54</date>
-  <millis>1545053934746</millis>
+  <date>2018-12-18T11:56:09</date>
+  <millis>1545114369712</millis>
   <sequence>34</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -399,8 +399,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:54</date>
-  <millis>1545053934747</millis>
+  <date>2018-12-18T11:56:09</date>
+  <millis>1545114369712</millis>
   <sequence>35</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -412,8 +412,8 @@
   <property name="stepIndex">4</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:54</date>
-  <millis>1545053934748</millis>
+  <date>2018-12-18T11:56:09</date>
+  <millis>1545114369714</millis>
   <sequence>36</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -423,8 +423,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:54</date>
-  <millis>1545053934798</millis>
+  <date>2018-12-18T11:56:09</date>
+  <millis>1545114369756</millis>
   <sequence>37</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -434,8 +434,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:54</date>
-  <millis>1545053934799</millis>
+  <date>2018-12-18T11:56:09</date>
+  <millis>1545114369756</millis>
   <sequence>38</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -445,8 +445,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:54</date>
-  <millis>1545053934799</millis>
+  <date>2018-12-18T11:56:09</date>
+  <millis>1545114369757</millis>
   <sequence>39</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -456,8 +456,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:54</date>
-  <millis>1545053934800</millis>
+  <date>2018-12-18T11:56:09</date>
+  <millis>1545114369757</millis>
   <sequence>40</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -467,8 +467,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:55</date>
-  <millis>1545053935830</millis>
+  <date>2018-12-18T11:56:10</date>
+  <millis>1545114370782</millis>
   <sequence>41</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -478,8 +478,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:55</date>
-  <millis>1545053935830</millis>
+  <date>2018-12-18T11:56:10</date>
+  <millis>1545114370783</millis>
   <sequence>42</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -489,8 +489,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:56</date>
-  <millis>1545053936870</millis>
+  <date>2018-12-18T11:56:11</date>
+  <millis>1545114371807</millis>
   <sequence>43</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -500,8 +500,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:56</date>
-  <millis>1545053936871</millis>
+  <date>2018-12-18T11:56:11</date>
+  <millis>1545114371809</millis>
   <sequence>44</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -511,8 +511,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:57</date>
-  <millis>1545053937886</millis>
+  <date>2018-12-18T11:56:12</date>
+  <millis>1545114372822</millis>
   <sequence>45</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -522,8 +522,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:57</date>
-  <millis>1545053937893</millis>
+  <date>2018-12-18T11:56:12</date>
+  <millis>1545114372861</millis>
   <sequence>46</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -533,8 +533,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:58</date>
-  <millis>1545053938974</millis>
+  <date>2018-12-18T11:56:13</date>
+  <millis>1545114373954</millis>
   <sequence>47</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -544,8 +544,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:58</date>
-  <millis>1545053938975</millis>
+  <date>2018-12-18T11:56:13</date>
+  <millis>1545114373954</millis>
   <sequence>48</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -555,8 +555,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:58</date>
-  <millis>1545053938975</millis>
+  <date>2018-12-18T11:56:13</date>
+  <millis>1545114373955</millis>
   <sequence>49</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -568,8 +568,8 @@
   <property name="stepIndex">5</property>
 </record>
 <record>
-  <date>2018-12-17T19:08:58</date>
-  <millis>1545053938977</millis>
+  <date>2018-12-18T11:56:13</date>
+  <millis>1545114373956</millis>
   <sequence>50</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -579,8 +579,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:59</date>
-  <millis>1545053939040</millis>
+  <date>2018-12-18T11:56:14</date>
+  <millis>1545114374016</millis>
   <sequence>51</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -590,8 +590,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:59</date>
-  <millis>1545053939041</millis>
+  <date>2018-12-18T11:56:14</date>
+  <millis>1545114374016</millis>
   <sequence>52</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -601,8 +601,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:59</date>
-  <millis>1545053939286</millis>
+  <date>2018-12-18T11:56:14</date>
+  <millis>1545114374329</millis>
   <sequence>53</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -612,8 +612,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:08:59</date>
-  <millis>1545053939287</millis>
+  <date>2018-12-18T11:56:14</date>
+  <millis>1545114374330</millis>
   <sequence>54</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -623,8 +623,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:00</date>
-  <millis>1545053940326</millis>
+  <date>2018-12-18T11:56:15</date>
+  <millis>1545114375353</millis>
   <sequence>55</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -634,8 +634,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:00</date>
-  <millis>1545053940326</millis>
+  <date>2018-12-18T11:56:15</date>
+  <millis>1545114375353</millis>
   <sequence>56</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -645,8 +645,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:01</date>
-  <millis>1545053941358</millis>
+  <date>2018-12-18T11:56:16</date>
+  <millis>1545114376381</millis>
   <sequence>57</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -656,8 +656,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:02</date>
-  <millis>1545053942426</millis>
+  <date>2018-12-18T11:56:17</date>
+  <millis>1545114377460</millis>
   <sequence>58</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -667,8 +667,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:02</date>
-  <millis>1545053942426</millis>
+  <date>2018-12-18T11:56:17</date>
+  <millis>1545114377461</millis>
   <sequence>59</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -678,8 +678,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:02</date>
-  <millis>1545053942427</millis>
+  <date>2018-12-18T11:56:17</date>
+  <millis>1545114377462</millis>
   <sequence>60</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -691,8 +691,8 @@
   <property name="stepIndex">6</property>
 </record>
 <record>
-  <date>2018-12-17T19:09:02</date>
-  <millis>1545053942428</millis>
+  <date>2018-12-18T11:56:17</date>
+  <millis>1545114377463</millis>
   <sequence>61</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -702,8 +702,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:02</date>
-  <millis>1545053942451</millis>
+  <date>2018-12-18T11:56:17</date>
+  <millis>1545114377482</millis>
   <sequence>62</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -713,8 +713,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:02</date>
-  <millis>1545053942452</millis>
+  <date>2018-12-18T11:56:17</date>
+  <millis>1545114377483</millis>
   <sequence>63</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -724,8 +724,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:02</date>
-  <millis>1545053942453</millis>
+  <date>2018-12-18T11:56:17</date>
+  <millis>1545114377483</millis>
   <sequence>64</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -735,8 +735,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:03</date>
-  <millis>1545053943475</millis>
+  <date>2018-12-18T11:56:18</date>
+  <millis>1545114378504</millis>
   <sequence>65</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -746,8 +746,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:03</date>
-  <millis>1545053943475</millis>
+  <date>2018-12-18T11:56:18</date>
+  <millis>1545114378504</millis>
   <sequence>66</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -757,8 +757,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:10</date>
-  <millis>1545053950580</millis>
+  <date>2018-12-18T11:56:25</date>
+  <millis>1545114385908</millis>
   <sequence>67</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -768,8 +768,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:10</date>
-  <millis>1545053950582</millis>
+  <date>2018-12-18T11:56:25</date>
+  <millis>1545114385909</millis>
   <sequence>68</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -779,8 +779,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:10</date>
-  <millis>1545053950582</millis>
+  <date>2018-12-18T11:56:25</date>
+  <millis>1545114385909</millis>
   <sequence>69</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -792,8 +792,8 @@
   <property name="stepIndex">7</property>
 </record>
 <record>
-  <date>2018-12-17T19:09:10</date>
-  <millis>1545053950583</millis>
+  <date>2018-12-18T11:56:25</date>
+  <millis>1545114385910</millis>
   <sequence>70</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -803,8 +803,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:10</date>
-  <millis>1545053950618</millis>
+  <date>2018-12-18T11:56:25</date>
+  <millis>1545114385941</millis>
   <sequence>71</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -814,8 +814,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:10</date>
-  <millis>1545053950618</millis>
+  <date>2018-12-18T11:56:25</date>
+  <millis>1545114385942</millis>
   <sequence>72</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -825,8 +825,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:10</date>
-  <millis>1545053950620</millis>
+  <date>2018-12-18T11:56:25</date>
+  <millis>1545114385943</millis>
   <sequence>73</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -836,8 +836,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:11</date>
-  <millis>1545053951643</millis>
+  <date>2018-12-18T11:56:26</date>
+  <millis>1545114386963</millis>
   <sequence>74</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -847,8 +847,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:11</date>
-  <millis>1545053951644</millis>
+  <date>2018-12-18T11:56:26</date>
+  <millis>1545114386965</millis>
   <sequence>75</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -858,8 +858,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:35</date>
-  <millis>1545053975138</millis>
+  <date>2018-12-18T11:56:50</date>
+  <millis>1545114410126</millis>
   <sequence>76</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -869,8 +869,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:35</date>
-  <millis>1545053975139</millis>
+  <date>2018-12-18T11:56:50</date>
+  <millis>1545114410127</millis>
   <sequence>77</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -880,8 +880,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:35</date>
-  <millis>1545053975139</millis>
+  <date>2018-12-18T11:56:50</date>
+  <millis>1545114410127</millis>
   <sequence>78</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -893,8 +893,8 @@
   <property name="stepIndex">8</property>
 </record>
 <record>
-  <date>2018-12-17T19:09:35</date>
-  <millis>1545053975141</millis>
+  <date>2018-12-18T11:56:50</date>
+  <millis>1545114410129</millis>
   <sequence>79</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -904,8 +904,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:35</date>
-  <millis>1545053975186</millis>
+  <date>2018-12-18T11:56:50</date>
+  <millis>1545114410181</millis>
   <sequence>80</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -915,8 +915,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:35</date>
-  <millis>1545053975186</millis>
+  <date>2018-12-18T11:56:50</date>
+  <millis>1545114410182</millis>
   <sequence>81</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -926,8 +926,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:35</date>
-  <millis>1545053975187</millis>
+  <date>2018-12-18T11:56:50</date>
+  <millis>1545114410182</millis>
   <sequence>82</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -937,8 +937,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:36</date>
-  <millis>1545053976208</millis>
+  <date>2018-12-18T11:56:51</date>
+  <millis>1545114411207</millis>
   <sequence>83</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -948,8 +948,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:36</date>
-  <millis>1545053976209</millis>
+  <date>2018-12-18T11:56:51</date>
+  <millis>1545114411208</millis>
   <sequence>84</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -959,8 +959,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:37</date>
-  <millis>1545053977296</millis>
+  <date>2018-12-18T11:56:52</date>
+  <millis>1545114412282</millis>
   <sequence>85</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -970,8 +970,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:37</date>
-  <millis>1545053977297</millis>
+  <date>2018-12-18T11:56:52</date>
+  <millis>1545114412283</millis>
   <sequence>86</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -981,8 +981,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:37</date>
-  <millis>1545053977297</millis>
+  <date>2018-12-18T11:56:52</date>
+  <millis>1545114412284</millis>
   <sequence>87</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -994,8 +994,8 @@
   <property name="stepIndex">9</property>
 </record>
 <record>
-  <date>2018-12-17T19:09:37</date>
-  <millis>1545053977299</millis>
+  <date>2018-12-18T11:56:52</date>
+  <millis>1545114412285</millis>
   <sequence>88</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1005,8 +1005,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:37</date>
-  <millis>1545053977328</millis>
+  <date>2018-12-18T11:56:52</date>
+  <millis>1545114412352</millis>
   <sequence>89</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1016,8 +1016,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:37</date>
-  <millis>1545053977329</millis>
+  <date>2018-12-18T11:56:52</date>
+  <millis>1545114412352</millis>
   <sequence>90</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1027,8 +1027,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:37</date>
-  <millis>1545053977330</millis>
+  <date>2018-12-18T11:56:52</date>
+  <millis>1545114412353</millis>
   <sequence>91</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1038,8 +1038,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:38</date>
-  <millis>1545053978362</millis>
+  <date>2018-12-18T11:56:53</date>
+  <millis>1545114413374</millis>
   <sequence>92</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1049,8 +1049,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:38</date>
-  <millis>1545053978362</millis>
+  <date>2018-12-18T11:56:53</date>
+  <millis>1545114413375</millis>
   <sequence>93</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1060,8 +1060,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:40</date>
-  <millis>1545053980284</millis>
+  <date>2018-12-18T11:56:55</date>
+  <millis>1545114415308</millis>
   <sequence>94</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1071,8 +1071,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:40</date>
-  <millis>1545053980285</millis>
+  <date>2018-12-18T11:56:55</date>
+  <millis>1545114415309</millis>
   <sequence>95</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1082,8 +1082,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:40</date>
-  <millis>1545053980286</millis>
+  <date>2018-12-18T11:56:55</date>
+  <millis>1545114415310</millis>
   <sequence>96</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1095,8 +1095,8 @@
   <property name="stepIndex">10</property>
 </record>
 <record>
-  <date>2018-12-17T19:09:40</date>
-  <millis>1545053980287</millis>
+  <date>2018-12-18T11:56:55</date>
+  <millis>1545114415311</millis>
   <sequence>97</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1106,8 +1106,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:40</date>
-  <millis>1545053980317</millis>
+  <date>2018-12-18T11:56:55</date>
+  <millis>1545114415336</millis>
   <sequence>98</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1117,8 +1117,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:40</date>
-  <millis>1545053980317</millis>
+  <date>2018-12-18T11:56:55</date>
+  <millis>1545114415336</millis>
   <sequence>99</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1128,8 +1128,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:40</date>
-  <millis>1545053980318</millis>
+  <date>2018-12-18T11:56:55</date>
+  <millis>1545114415337</millis>
   <sequence>100</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1139,8 +1139,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:41</date>
-  <millis>1545053981356</millis>
+  <date>2018-12-18T11:56:56</date>
+  <millis>1545114416359</millis>
   <sequence>101</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1150,8 +1150,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:41</date>
-  <millis>1545053981357</millis>
+  <date>2018-12-18T11:56:56</date>
+  <millis>1545114416359</millis>
   <sequence>102</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1161,8 +1161,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:44</date>
-  <millis>1545053984970</millis>
+  <date>2018-12-18T11:57:04</date>
+  <millis>1545114424181</millis>
   <sequence>103</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1172,8 +1172,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:44</date>
-  <millis>1545053984972</millis>
+  <date>2018-12-18T11:57:04</date>
+  <millis>1545114424183</millis>
   <sequence>104</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1183,8 +1183,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:44</date>
-  <millis>1545053984972</millis>
+  <date>2018-12-18T11:57:04</date>
+  <millis>1545114424183</millis>
   <sequence>105</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1196,8 +1196,8 @@
   <property name="stepIndex">11</property>
 </record>
 <record>
-  <date>2018-12-17T19:09:44</date>
-  <millis>1545053984975</millis>
+  <date>2018-12-18T11:57:04</date>
+  <millis>1545114424184</millis>
   <sequence>106</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1207,8 +1207,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:45</date>
-  <millis>1545053985027</millis>
+  <date>2018-12-18T11:57:04</date>
+  <millis>1545114424230</millis>
   <sequence>107</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1218,8 +1218,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:45</date>
-  <millis>1545053985027</millis>
+  <date>2018-12-18T11:57:04</date>
+  <millis>1545114424230</millis>
   <sequence>108</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1229,8 +1229,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:45</date>
-  <millis>1545053985028</millis>
+  <date>2018-12-18T11:57:04</date>
+  <millis>1545114424231</millis>
   <sequence>109</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1240,8 +1240,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:45</date>
-  <millis>1545053985029</millis>
+  <date>2018-12-18T11:57:04</date>
+  <millis>1545114424232</millis>
   <sequence>110</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1251,8 +1251,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:46</date>
-  <millis>1545053986242</millis>
+  <date>2018-12-18T11:57:05</date>
+  <millis>1545114425254</millis>
   <sequence>111</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1262,8 +1262,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2018-12-17T19:09:48</date>
-  <millis>1545053988263</millis>
+  <date>2018-12-18T11:57:07</date>
+  <millis>1545114427772</millis>
   <sequence>112</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -1271,5 +1271,290 @@
   <thread>1</thread>
   <message>Selecting options on object &amp;apos;Object Repository/Page_Bulk Authoring Tool/select_Select ProductLehninger&amp;apos; with label &amp;apos;AD Automation added_9&amp;apos;  using regular expression</message>
   <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-12-18T11:57:50</date>
+  <millis>1545114470895</millis>
+  <sequence>113</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Cannot take screenshot</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-12-18T11:57:50</date>
+  <millis>1545114470947</millis>
+  <sequence>114</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Unable to select option by label &amp;apos;AD Automation added_9&amp;apos; of object &amp;apos;Object Repository/Page_Bulk Authoring Tool/select_Select ProductLehninger&amp;apos;  using regular expression (Root cause: org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome=71.0.3578.80)\n  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: &amp;apos;3.7.1&amp;apos;, revision: &amp;apos;8a0099a&amp;apos;, time: &amp;apos;2017-11-06T21:07:36.161Z&amp;apos;\nSystem info: host: &amp;apos;CDAHMLPT056&amp;apos;, ip: &amp;apos;192.168.10.208&amp;apos;, os.name: &amp;apos;Windows 10&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;1.8.0_102&amp;apos;\nDriver info: com.kms.katalon.selenium.driver.CChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\\Users\\ANANTA~1.DAV\\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.80, webStorageEnabled: true}\nSession ID: dd9a0d9ffa436b91c1c9e6df19bfd7ab)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-12-18T11:57:50</date>
+  <millis>1545114470948</millis>
+  <sequence>115</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : selectOptionByLabel</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-12-18T11:57:50</date>
+  <millis>1545114470951</millis>
+  <sequence>116</sequence>
+  <logger>com.kms.katalon.core.logging.KeywordLogger</logger>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/CreateItemTF FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to select option by label &amp;apos;AD Automation added_9&amp;apos; of object &amp;apos;Object Repository/Page_Bulk Authoring Tool/select_Select ProductLehninger&amp;apos;  using regular expression (Root cause: org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome=71.0.3578.80)\n  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: &amp;apos;3.7.1&amp;apos;, revision: &amp;apos;8a0099a&amp;apos;, time: &amp;apos;2017-11-06T21:07:36.161Z&amp;apos;\nSystem info: host: &amp;apos;CDAHMLPT056&amp;apos;, ip: &amp;apos;192.168.10.208&amp;apos;, os.name: &amp;apos;Windows 10&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;1.8.0_102&amp;apos;\nDriver info: com.kms.katalon.selenium.driver.CChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\\Users\\ANANTA~1.DAV\\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.80, webStorageEnabled: true}\nSession ID: dd9a0d9ffa436b91c1c9e6df19bfd7ab)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SelectOptionByLabelKeyword.selectOptionByLabel(SelectOptionByLabelKeyword.groovy:98)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SelectOptionByLabelKeyword.execute(SelectOptionByLabelKeyword.groovy:71)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel(WebUiBuiltInKeywords.groovy:1200)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByLabel$4.call(Unknown Source)\r\n\tat org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)\r\n\tat Script1544083118215.run(Script1544083118215.groovy:36)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)\r\n\tat TempTestSuite1545114350939.run(TempTestSuite1545114350939.groovy:36)\r\n\tat groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)\r\n\tat groovy.lang.GroovyShell.run(GroovyShell.java:518)\r\n\tat groovy.lang.GroovyShell.run(GroovyShell.java:507)\r\n\tat groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)\r\n\tat groovy.ui.GroovyMain.run(GroovyMain.java:384)\r\n\tat groovy.ui.GroovyMain.process(GroovyMain.java:370)\r\n\tat groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)\r\n\tat groovy.ui.GroovyMain.main(GroovyMain.java:109)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)\r\n\tat org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)\r\n)</message>
+  <exception>
+    <message>com.kms.katalon.core.exception.StepFailedException: Unable to select option by label 'AD Automation added_9' of object 'Object Repository/Page_Bulk Authoring Tool/select_Select ProductLehninger'  using regular expression (Root cause: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'CDAHMLPT056', ip: '192.168.10.208', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\ANANTA~1.DAV\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.80, webStorageEnabled: true}
+Session ID: dd9a0d9ffa436b91c1c9e6df19bfd7ab)</message>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordMain</class>
+      <method>stepFailed</method>
+      <line>36</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>stepFailed</method>
+      <line>65</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>runKeyword</method>
+      <line>27</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.SelectOptionByLabelKeyword</class>
+      <method>selectOptionByLabel</method>
+      <line>98</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.SelectOptionByLabelKeyword</class>
+      <method>execute</method>
+      <line>71</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordExecutor</class>
+      <method>executeKeywordForPlatform</method>
+      <line>53</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords</class>
+      <method>selectOptionByLabel</method>
+      <line>1200</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByLabel$4</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.CallSiteArray</class>
+      <method>defaultCall</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>141</line>
+    </frame>
+    <frame>
+      <class>Script1544083118215</class>
+      <method>run</method>
+      <line>36</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>183</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>108</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>294</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>285</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>264</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>256</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>200</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>129</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>112</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>81</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>142</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.CallSiteArray</class>
+      <method>defaultCall</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>141</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1545114350939</class>
+      <method>run</method>
+      <line>36</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>runScriptOrMainOrTestOrRunnable</method>
+      <line>263</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>run</method>
+      <line>518</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>run</method>
+      <line>507</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>processOnce</method>
+      <line>653</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>run</method>
+      <line>384</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>process</method>
+      <line>370</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>processArgs</method>
+      <line>129</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>main</method>
+      <line>109</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>62</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>498</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.tools.GroovyStarter</class>
+      <method>rootLoader</method>
+      <line>109</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.tools.GroovyStarter</class>
+      <method>main</method>
+      <line>131</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-12-18T11:57:50</date>
+  <millis>1545114470966</millis>
+  <sequence>117</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/CreateItemTF</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-12-18T11:57:52</date>
+  <millis>1545114472573</millis>
+  <sequence>118</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/BATool Test Suite</message>
+  <nestedLevel>0</nestedLevel>
 </record>
 </log>

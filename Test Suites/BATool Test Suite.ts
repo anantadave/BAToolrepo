@@ -4,7 +4,7 @@
    <name>BATool Test Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-12-17T17:37:28</lastRun>
+   <lastRun>2018-12-18T11:55:50</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -14,13 +14,13 @@
    <testCaseLink>
       <guid>e435072c-fca2-4e1b-9792-0885aa68812f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Test Case1</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>c3f19de8-bfc0-497e-b752-7e40a4fd144c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/CreateItemTF</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
