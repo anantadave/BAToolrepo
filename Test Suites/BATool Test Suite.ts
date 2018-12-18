@@ -4,7 +4,7 @@
    <name>BATool Test Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-12-18T12:04:34</lastRun>
+   <lastRun>2018-12-18T13:02:38</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
